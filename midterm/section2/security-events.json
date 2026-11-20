@@ -1,0 +1,502 @@
+﻿[
+    {
+        "TimeCreated":  "\/Date(1794919743616)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919743614)\/",
+        "Id":  4672,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919743614)\/",
+        "Id":  4624,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919743554)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919733384)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919719817)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919719773)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919719744)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919707599)\/",
+        "Id":  4726,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919707598)\/",
+        "Id":  4729,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919685279)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919685264)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919685249)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919685232)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919685218)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919685202)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919614214)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919610132)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919610112)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919610073)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919563679)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919558235)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919543585)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919543583)\/",
+        "Id":  4672,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919543583)\/",
+        "Id":  4624,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919543523)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919532088)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919532086)\/",
+        "Id":  4672,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919532086)\/",
+        "Id":  4624,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919530212)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919504896)\/",
+        "Id":  4738,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919504896)\/",
+        "Id":  4725,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919504887)\/",
+        "Id":  4738,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919504887)\/",
+        "Id":  4722,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919504884)\/",
+        "Id":  4720,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919504883)\/",
+        "Id":  4728,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919500879)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919500829)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919500802)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919481603)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919432168)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919432155)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919432084)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919432070)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919432040)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919432028)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919432009)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919338594)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919261229)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919261166)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919183761)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919181834)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919181808)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919181600)\/",
+        "Id":  4625,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919181598)\/",
+        "Id":  4648,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919181566)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919096154)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919096093)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093229)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093229)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093229)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093224)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093224)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093223)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093222)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093222)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093222)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093209)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093208)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093205)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093205)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093205)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093204)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093204)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093204)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093178)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093177)\/",
+        "Id":  4672,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919093176)\/",
+        "Id":  4624,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919090189)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919090125)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919090099)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919090075)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919090074)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919085056)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919082772)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919082719)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919070565)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919042350)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919042348)\/",
+        "Id":  4672,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919042348)\/",
+        "Id":  4624,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794919042296)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794918997547)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794918962978)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794918956545)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794918956492)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794918901504)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794918853294)\/",
+        "Id":  4688,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794918781351)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794918781336)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    },
+    {
+        "TimeCreated":  "\/Date(1794918781321)\/",
+        "Id":  5379,
+        "ProviderName":  "Microsoft-Windows-Security-Auditing"
+    }
+]

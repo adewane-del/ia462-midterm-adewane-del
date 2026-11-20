@@ -1,0 +1,27 @@
+
+title: Windows User Account Creation
+id: 2e76d9e6-9ae6-4d18-b235-75e39f95c2f3
+status: experimental
+description: >
+  Detects Windows Security Event ID 4720, indicating
+  that a user account was created. This event was
+  observed in the Section 2 Windows security logs.
+references:
+  - https://attack.mitre.org/techniques/T1136/
+  - https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4720
+author: IA 462 Midterm
+date: 2026-11-19
+tags:
+  - attack.persistence
+  - attack.t1136
+logsource:
+  product: windows
+  service: security
+detection:
+  selection:
+    EventID: 4720
+  condition: selection
+falsepositives:
+  - Legitimate administrative account creation
+  - Automated user provisioning
+level: medium

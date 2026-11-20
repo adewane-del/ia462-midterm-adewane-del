@@ -1,0 +1,8 @@
+﻿
+
+ExclusionPath      : {C:\Users\euaro\OneDrive\Documents\GitHub\ia462-midterm-adewane-del\midterm\app}
+ExclusionProcess   : 
+ExclusionExtension : 
+
+
+
